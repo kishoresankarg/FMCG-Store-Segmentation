@@ -1,0 +1,5 @@
+,avg_weekly_spend,avg_weekly_spend,avg_weekly_spend,weekly_spend_volatility,weekly_spend_volatility,weekly_spend_volatility,relative_spend_volatility,relative_spend_volatility,relative_spend_volatility,active_weeks,active_weeks,active_weeks,log_spend_change,log_spend_change,log_spend_change,zero_starting_spend,zero_starting_spend,zero_starting_spend,short_history_flag,short_history_flag,short_history_flag
+,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count
+cluster,,,,,,,,,,,,,,,,,,,,,
+0,171.88609648620627,142.16769230769233,139,82.95260997666769,45.064558592246954,139,0.39204028052535694,0.32502563609458984,139,116.99280575539568,117.0,139,0.24846364545840716,0.11744214593090696,139,0.0,0.0,139,0.0,0.0,139
+1,786.3095212481543,751.5091880341881,622,169.49831868815698,160.44606231034064,622,0.23264940245948404,0.21462756018756762,622,116.22025723472669,117.0,622,0.014316025331796652,0.0029332402373496436,612,0.01607717041800643,0.0,622,0.01607717041800643,0.0,622

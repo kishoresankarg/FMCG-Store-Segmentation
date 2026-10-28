@@ -1,0 +1,3 @@
+cluster,segment_name,store_count,median_weekly_spend,mean_weekly_spend,median_weekly_volatility,median_relative_volatility,median_active_weeks,stores_with_zero_starting_spend,store_percentage
+0,Smaller-Spend Stores,139,142.16769230769233,171.88609648620627,45.064558592246954,0.32502563609458984,117.0,0,18.265440210249672
+1,Larger-Spend Stores,622,751.5091880341881,786.3095212481543,160.44606231034064,0.21462756018756762,117.0,10,81.73455978975032
